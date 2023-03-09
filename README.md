@@ -5,6 +5,7 @@
 ### Local
 
 ```
+npm install
 npm start
 ```
 
