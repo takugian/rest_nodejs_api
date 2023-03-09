@@ -4,10 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "start:dev": "nodemon app.js",
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "quick tutorials with azure",
@@ -17,11 +14,5 @@
     "dotenv": "^8.2.0",
     "express": "^4.16.4",
     "uuid": "^8.3.2"
-  },
-  "devDependencies": {
-    "dotenv-webpack": "^1.8.0",
-    "nodemon": "^1.18.10",
-    "webpack": "^4.29.3",
-    "webpack-cli": "^3.2.3"
   }
 }
